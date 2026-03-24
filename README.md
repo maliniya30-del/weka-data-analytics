@@ -49,6 +49,8 @@ Improved data preprocessing and analytical skills
 
 output screenshots are as below:
 
+https://github.com/maliniya30-del/weka-data-analytics/blob/main/Overall%20analysis.png
+
 
 
 

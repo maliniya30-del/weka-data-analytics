@@ -57,5 +57,9 @@ https://github.com/maliniya30-del/weka-data-analytics/blob/main/J48%20model.png
 
 https://github.com/maliniya30-del/weka-data-analytics/blob/main/Random%20forest%20model.png
 
+https://github.com/maliniya30-del/weka-data-analytics/blob/main/Logistic%20model.png
+
+Full project report available upon request on my email id: malinibhattacharya59@gmail.com
+
 
 

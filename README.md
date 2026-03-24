@@ -53,5 +53,7 @@ https://github.com/maliniya30-del/weka-data-analytics/blob/main/Overall%20analys
 
 https://github.com/maliniya30-del/weka-data-analytics/blob/main/Feature%20selection.png
 
+https://github.com/maliniya30-del/weka-data-analytics/blob/main/J48%20model.png
+
 
 
